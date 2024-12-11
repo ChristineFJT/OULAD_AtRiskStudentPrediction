@@ -20,6 +20,9 @@ This folder includes the code for deploying the machine learning model using XGB
 - **model_performance_metrics.png**: Image summarizing the performance metrics of the models.
 studData.csv: The primary dataset used for training and testing.
 
+## Original Dataset
+The original dataset used in this project can be downloaded from the Open University Learning Analytics Dataset (https://analyse.kmi.open.ac.uk/open_dataset).
+
 ## Highlights
 - Utilizes **XGBoost** for its robust prediction capabilities.
 - Implements both binary and multi-class classification to address different levels of prediction granularity.
