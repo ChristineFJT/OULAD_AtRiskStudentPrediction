@@ -1,0 +1,11 @@
+id_student,code_module_presentation_student,code_module_presentation_student_encoded,date_registration,gender,gender_encoded,region,region_encoded,highest_education,highest_education_encoded,imd_band,imd_band_encoded,age_band,age_band_encoded,num_of_prev_attempts,studied_credits,disability,disability_encoded,module_presentation_length,sum_click,before_course_click,after_course_click,final_score,at_risk_binary
+100893,AAA-2013J-100893,0,-62,M,1,Yorkshire Region,12,A Level or Equivalent,2,20-30%,2,0-35,0,0,60,N,0,268,744,27,717,68.7,Not at Risk
+101781,AAA-2013J-101781,1,-103,M,1,South Region,8,Lower Than A Level,1,80-90%,8,35-55,1,0,60,N,0,268,4104,302,3802,71.6,Not at Risk
+102806,AAA-2013J-102806,2,-107,M,1,North Western Region,5,A Level or Equivalent,2,30-40%,3,0-35,0,0,60,N,0,268,1944,127,1817,76,Not at Risk
+102952,AAA-2013J-102952,3,-100,M,1,London Region,3,HE Qualification,3,60-70%,6,0-35,0,0,60,N,0,268,1150,31,1119,77.1,Not at Risk
+1035023,AAA-2013J-1035023,4,-87,F,0,London Region,3,Lower Than A Level,1,30-40%,3,35-55,1,0,60,N,0,268,1896,88,1808,69.9,Not at Risk
+104476,AAA-2013J-104476,5,-109,M,1,Ireland,2,Post Graduate Qualification,4,20-30%,2,35-55,1,0,60,N,0,268,4777,544,4233,78.9,Not at Risk
+106247,AAA-2013J-106247,6,5,M,1,South Region,8,HE Qualification,3,80-90%,8,35-55,1,0,60,N,0,268,465,0,465,29.3,At Risk
+106577,AAA-2013J-106577,7,-107,M,1,East Midlands Region,1,Lower Than A Level,1,20-30%,2,0-35,0,0,60,N,0,268,733,149,584,54.2,Not at Risk
+110175,AAA-2013J-110175,8,-110,M,1,East Anglian Region,0,HE Qualification,3,80-90%,8,35-55,1,0,60,N,0,268,998,38,960,63.7,Not at Risk
+1105478,AAA-2013J-1105478,9,-144,M,1,Scotland,6,HE Qualification,3,80-90%,8,55<=,2,0,60,N,0,268,1695,180,1515,81.2,Not at Risk

@@ -1,0 +1,6 @@
+id_student,gender,highest_education,imd_band,num_of_prev_attempts,studied_credits,before_course_click,after_course_click,sum_click,final_score
+1,M,A Level or Equivalent,0-10%,0,60,50,50,100,70
+2,F,HE Qualification,20-30%,1,50,100,100,200,65
+3,M,Lower Than A Level,40-50%,0,40,75,75,150,50
+4,F,Post Graduate Qualification,60-70%,2,30,150,150,300,80
+5,M,A Level or Equivalent,80-90%,1,20,125,125,250,55

@@ -1,0 +1,11 @@
+﻿id_student,code_module_presentation_student,code_module_presentation_student_encoded,date_registration,gender,gender_encoded,region,region_encoded,highest_education,highest_education_encoded,imd_band,imd_band_encoded,age_band,age_band_encoded,num_of_prev_attempts,studied_credits,disability,disability_encoded,module_presentation_length,sum_click,before_course_click,after_course_click,final_score,at_risk_binary
+697492,GGG-2014J-697492,32583,4,F,0,East Midlands Region,1,Lower Than A Level,1,60-70%,6,0-35,0,0,30,N,0,269,326,0,326,0,Not at Risk
+698019,GGG-2014J-698019,32584,-1,F,0,Wales,10,Lower Than A Level,1,20-30%,2,0-35,0,0,30,N,0,269,1,0,1,0,At Risk
+698065,GGG-2014J-698065,32585,5,F,0,South East Region,7,Lower Than A Level,1,20-30%,2,0-35,0,0,60,N,0,269,77,0,77,0,At Risk
+698163,GGG-2014J-698163,32586,3,F,0,North Western Region,5,A Level or Equivalent,2,0-10%,0,0-35,0,0,30,N,0,269,280,0,280,0,Not at Risk
+698460,GGG-2014J-698460,32587,-15,F,0,East Midlands Region,1,HE Qualification,3,60-70%,6,35-55,1,0,30,N,0,269,2873,12,2861,0,Not at Risk
+698548,GGG-2014J-698548,32588,-8,M,1,South East Region,7,HE Qualification,3,30-40%,3,35-55,1,0,30,N,0,269,598,0,598,0,Not at Risk
+699461,GGG-2014J-699461,32589,0,F,0,London Region,3,Lower Than A Level,1,40-50%,4,35-55,1,0,30,N,0,269,389,0,389,0,Not at Risk
+699628,GGG-2014J-699628,32590,-7,F,0,Wales,10,A Level or Equivalent,2,60-70%,6,35-55,1,0,30,N,0,269,283,0,283,0,At Risk
+91041,GGG-2014J-91041,32591,-3,F,0,Yorkshire Region,12,Lower Than A Level,1,0-10%,0,0-35,0,0,30,N,0,269,112,21,91,0,At Risk
+92103,GGG-2014J-92103,32592,-60,F,0,West Midlands Region,11,A Level or Equivalent,2,10-20%,1,0-35,0,0,30,N,0,269,114,41,73,0,At Risk

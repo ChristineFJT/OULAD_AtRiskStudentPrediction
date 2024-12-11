@@ -1,0 +1,11 @@
+studied_credits,num_of_prev_attempts,imd_band_encoded,highest_education_encoded,before_course_click,sum_click,after_course_click,final_score,imd_band,highest_education,at_risk_actual
+30,0,6,1,0,326,326,0,60-70%,Lower Than A Level,0
+30,0,2,1,0,1,1,0,20-30%,Lower Than A Level,1
+60,0,2,1,0,77,77,0,20-30%,Lower Than A Level,1
+30,0,0,2,0,280,280,0,0-10%,A Level or Equivalent,0
+30,0,6,3,12,2873,2861,0,60-70%,HE Qualification,0
+30,0,3,3,0,598,598,0,30-40%,HE Qualification,0
+30,0,4,1,0,389,389,0,40-50%,Lower Than A Level,0
+30,0,6,2,0,283,283,0,60-70%,A Level or Equivalent,1
+30,0,0,1,21,112,91,0,0-10%,Lower Than A Level,1
+30,0,1,2,41,114,73,0,10-20%,A Level or Equivalent,1
